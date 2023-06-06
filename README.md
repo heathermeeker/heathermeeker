@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heathermeeker
-- 👀 I’m interested in open source licensing, Indian wildlife, Balkan folk music, and video games that don't involve shooting.
-- 🌱 I’m currently learning Python, Hindi, and electronics repair.
+- 👀 I’m interested in open source licensing, Indian wildlife, Balkan folk music, and video games that don't involve (much) shooting.
+- 🌱 I’m currently learning Python, Hindi, and bass guitar. 
 - 💞️ I’m looking to collaborate on anything relating software licensing.
 - 📫 How to reach me - www.heathermeeker.com
 
